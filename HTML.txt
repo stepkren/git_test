@@ -1,0 +1,6 @@
+tags [ <p> - opening tag; </p> - closing tag ]
+void tags [ <br>; <img> (void elements - no closing tags) ]
+
+
+
+
