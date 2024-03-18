@@ -4,4 +4,14 @@ headings: h1 - h6
 <strong> -> bold
 <em> -> italic
 <!-- comment -->
+unordered list:
+<ul>
+	<li>item 1</li>
+	<li>item 2</li>
+</ul>
+ordered list:
+<ol>
+	<li>item 1</li>
+	<li>item 2</li>
+</ol>
 
