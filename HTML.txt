@@ -1,6 +1,7 @@
 tags [ <p> - opening tag; </p> - closing tag ]
 void tags [ <br>; <img> (void elements - no closing tags) ]
-
-
-
+headings: h1 - h6
+<strong> -> bold
+<em> -> italic
+<!-- comment -->
 
